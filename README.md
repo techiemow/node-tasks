@@ -17,7 +17,7 @@
 ---------------------------------------------------------
 ***2)Write an API endpoint to retrive all the text files in a particular folder***
 
-**API endpoint created:** https://node-tasks-1.onrender.com/
+**API endpoint created:** https://node-tasks-1.onrender.com/list_txt_files
 
 - Api contains all the names of the txt-files in the folder.
 
