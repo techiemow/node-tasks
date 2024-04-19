@@ -10,13 +10,21 @@
 
 **API endpoint created:** https://node-tasks-1.onrender.com/create_file
 
-**OUTPUT:referenece**
-![](./create-file.png)
+- Api contains a message and filepath at which file is created.     
 
+- In this format "yyyy-MM-dd-HH-mm-ss" txt-file are created.
+
+---------------------------------------------------------
 ***2)Write an API endpoint to retrive all the text files in a particular folder***
-**OUTPUT:referenece**
-![](./list%20of%20txt%20files.png)
 
 **API endpoint created:** https://node-tasks-1.onrender.com/
+
+- Api contains all the names of the txt-files in the folder.
+
+- In this format "yyyy-MM-dd-HH-mm-ss" txt-files names are displayed in the output.
+
+ 
+-----------------------------------------
+
 
 **NOTE:** The file timestamp is generated using the Oregon time zone due to the requirements of this API created on render.com.
