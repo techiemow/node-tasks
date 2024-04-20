@@ -14,6 +14,10 @@
 
 - In this format "yyyy-MM-dd-HH-mm-ss" txt-file are created.
 
+**output referenece:**
+
+- ![](./assests/create-file.png)
+
 ---------------------------------------------------------
 ***2)Write an API endpoint to retrive all the text files in a particular folder***
 
@@ -21,7 +25,12 @@
 
 - Api contains all the names of the txt-files in the folder.
 
-- In this format "yyyy-MM-dd-HH-mm-ss" txt-files names are displayed in the output.
+- In this format "yyyy-MM-dd-HH-mm-ss" txt-files names are displayed in the output.   
+
+**output referenece:**
+
+- ![](./assests/list%20of%20txt%20files.png)
+
 
  
 -----------------------------------------
